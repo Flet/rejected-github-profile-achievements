@@ -25,3 +25,4 @@ It's Bad Luck     | ![It's Bad Luck Badge](images/itsbadluck.png) | Merge a comm
 ###### Author's Note
 ###### This is a joke! PRs welcome
 ###### Inspired by [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+###### Badges hacked together from the fine art at [OpenMoji](https://openmoji.org/)
