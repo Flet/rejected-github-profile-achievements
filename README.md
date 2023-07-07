@@ -22,6 +22,7 @@ Speed Reader    	| ![Speed Reader Badge](images/speedreader.png) |	Review and ap
 It's Bad Luck     | ![It's Bad Luck Badge](images/itsbadluck.png) | Merge a commit on a Friday and deploy it with GitHub Actions, then rollback the commit on the weekend.
 Works On My Machine | ![Works On My Machine Badge](images/worksonmymachine.png) | Suggest user error in at least 10 issue threads without attempting to reproduce end-user runtime environments.
 Log This | ![Log This Badge](images/logthis.png) | Have Log4j2 version 2.0-2.17 as a dependency in your project
+AI-Powered Wizard | ![AI Badge](images/dall_e-ai-badge.png) | Unleash the magic of AI in your GitHub project and watch as the allure of AI draws developers like moths to a flame. Dall-e generated this badge and ChatGPT wrote this description.
 
 ###### Author's Note
 ###### This is a joke! PRs welcome
