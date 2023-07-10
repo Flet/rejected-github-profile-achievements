@@ -18,7 +18,7 @@ Arborist          | ![Arborist Badge](images/arborist.png) |	Maintain a reposito
 Tee Hee         	| ![Tee Hee Badge](images/teehee.png) |	In a single "minor cleanup" commit to the main branch, change every line of every file in the repository so that all open Pull Requests are unmergeable.
 Patient Skeleton	| ![Patient Skeleton Badge](images/patientskeleton.png) |	Submit a pull request to a public repository that fixes it, but its been open for at least 2 years.
 2 FU	            | ![2 FU Badge](images/2fu.png) |	It's 2023 and you've never enabled 2FA.
-Speed Reader    	| ![Speed Reader Badge](images/speedreader.png) |	Review and approve a pull request that contains over 10,000 lines of code in under 15 seconds.
+United States Congressperson    	| ![Speed Reader Badge](images/speedreader.png) |	Review and approve a pull request that contains over 10,000 lines of code in under 15 seconds.
 It's Bad Luck     | ![It's Bad Luck Badge](images/itsbadluck.png) | Merge a commit on a Friday and deploy it with GitHub Actions, then rollback the commit on the weekend.
 Works On My Machine | ![Works On My Machine Badge](images/worksonmymachine.png) | Suggest user error in at least 10 issue threads without attempting to reproduce end-user runtime environments.
 Log This | ![Log This Badge](images/logthis.png) | Have Log4j2 version 2.0-2.17 as a dependency in your project
