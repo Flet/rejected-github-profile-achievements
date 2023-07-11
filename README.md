@@ -8,7 +8,7 @@ This repository attempts to list them all.
 
 | Title | Badge (prototype) |  Earned by |
 | --- | --- | --- |
-Vital Contributor | ![Vital Contributor Badge](images/plusone.png) |	Over 100 issue comments consisting of just "+1" or a thumbs up emoji. 
+Vital Contributor | ![Vital Contributor Badge](images/plusone.png) |	Over 100 issue comments consisting of just "+1" or a thumbs up emoji.
 Sith Lord	        | ![Sith Lord Badge](images/sithlord.png) |	Wipe out someone else's commits by force pushing to the main branch.
 Procrastinator  	| ![Procrastinator Badge](images/procrastinator.png) |	Created a repository with a single "init" commit with just a README.md. Then never touch it for 5 years.
 Secret Santa	    | ![Secret Santa Badge](images/secretsanta.png) |	Accidentally commit a secret API key in a public repository.
@@ -22,6 +22,7 @@ Speed Reader    	| ![Speed Reader Badge](images/speedreader.png) |	Review and ap
 It's Bad Luck     | ![It's Bad Luck Badge](images/itsbadluck.png) | Merge a commit on a Friday and deploy it with GitHub Actions, then rollback the commit on the weekend.
 Works On My Machine | ![Works On My Machine Badge](images/worksonmymachine.png) | Suggest user error in at least 10 issue threads without attempting to reproduce end-user runtime environments.
 Log This | ![Log This Badge](images/logthis.png) | Have Log4j2 version 2.0-2.17 as a dependency in your project
+Pixel Artist | ![Pixel Artist Badge](images/pixelartist.png) | Manipulated commits to draw something on your contribution graph.
 
 ###### Author's Note
 ###### This is a joke! PRs welcome
